@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://munem.github.io/al-folio/sitemap.xml
+Sitemap: https://munem.github.io/sitemap.xml
